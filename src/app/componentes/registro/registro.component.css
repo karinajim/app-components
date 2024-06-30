@@ -1,0 +1,38 @@
+
+
+.body {
+    height: 100%;
+    background-image: url('https://lh3.googleusercontent.com/p/AF1QipOQAH_VTahf0VhqjxGwNo9iy1bOh97cfbQY0Rjp=s1360-w1360-h1020');
+}
+
+.registro-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    font-family: serif;
+}
+
+.card {
+    width: 100%;
+    max-width: 400px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.btn-block {
+    display: block;
+    width: 100%;
+    background-attachment: #4e4e4e;
+}
+.btn-primary{
+    font-family: serif;
+    background-attachment: #4e4e4e;
+}
+.btn{
+    background-attachment: #4e4e4e;
+}
+.text-center{
+    background-attachment: #4e4e4e;
+}

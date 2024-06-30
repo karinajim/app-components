@@ -1,0 +1,30 @@
+body {
+    height: 100%;
+    background-image: url(/src/assets/img/Entrada_uni.jpg);
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.card {
+    width: 100%;
+    max-width: 400px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.cargar-container {
+    border-radius: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    background-color: #fff;
+}
+
+.btn-block {
+    display: block;
+    width: 100%;
+}
